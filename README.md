@@ -6,4 +6,4 @@ Exercises for the UBC Scientific Software Seminar
 
 Write a Jupyter notebook describing a project that you're interested in.
 
-My notebook is titled "Exercise1Notebook"
+My notebook is called "Exercise1Notebook"
